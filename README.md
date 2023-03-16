@@ -1,5 +1,5 @@
 # PDFWatermarker
-An open source compact PDF watermarker that is based on python (currently only support wiu)
+An open source compact PDF watermarker that is based on python (currently only support Windows)
 
 ## A. Download
 
