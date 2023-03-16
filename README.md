@@ -1,10 +1,9 @@
 # PDFWatermarker
-An open source compact PDF watermarker that is based on python
+An open source compact PDF watermarker that is based on python (currently only support wiu)
 
 ## A. Download
 
-
-<button name="button" onclick="https://github.com/HaozheTian/PDFWatermarker/raw/main/dist/PDFWatermarker.exe">Download</button>
+[download link](https://github.com/HaozheTian/PDFWatermarker/raw/main/dist/PDFWatermarker.exe)
 
 ## B. Note
 ![avatar](doc/fig1.png)
